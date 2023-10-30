@@ -13,14 +13,14 @@
 <img src="imagensDaTelaDoJogo/telaInicial.png" width="900">
 <br><br>
 <img src="imagensDaTelaDoJogo/telaInicialUser.png" width="900">
-<br>
+<br><br>
 
 **[⬆ Inicio](#projeto-jogo-de-xadrez---)**
 
 ## Imagem durante a partida
 <p>O jogo sempre inicia com a cor branca. Ao clicar na peça, será destacado o caminho que a peça pode fazer e se o inimigo estiver no caminho.</p>
 <img src="imagensDaTelaDoJogo/durantePartida.png" width="600">
-<br>
+<br><br>
 
 
 **[⬆ Inicio](#projeto-jogo-de-xadrez---)**
@@ -29,6 +29,6 @@
 <p>A partida se encerra quando o rei sofre o xeque-mate, ou seja, quando a peça do rei é eliminada. Desta forma, o jogo finaliza e o ganhador da partida aparece na tela.</p>
 <img src="imagensDaTelaDoJogo/finalDaPartida.png" width="600">
 </div>
-<br>
+<br><br>
 
 **[⬆ Inicio](#projeto-jogo-de-xadrez---)**
