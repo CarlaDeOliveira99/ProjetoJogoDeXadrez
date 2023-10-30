@@ -1,14 +1,13 @@
 # ProjetoJogoDeXadrez   <img src="icone/xadrez.png">
 <p>Abaixo possui algumas imagens do jogo, que pode ser acessadas abaixo no link</p>
 
-* [Animals](#animals)
 * [Imagem da tela Inicial do jogo](#Imagem-da-tela-Inicial-do-jogo)
 * [Imagem durante a partida](#Imagem-durante-a-partida)
 * [Imagem da partida final](#Imagem-da-partida-final)
 
 
 <div>
-
+  
 ## Imagem da tela Inicial do jogo
 <p>Na tela inicial, o jogador pode escolher qual cor deseja jogar. Após a escolha da cor, poderá se identificar. Segue abaixo algumas imagens da tela do jogo</p>
 <img src="imagensDaTelaDoJogo/telaInicial.png" width="900">
@@ -16,7 +15,7 @@
 <img src="imagensDaTelaDoJogo/telaInicialUser.png" width="900">
 <br>
 
-**[⬆ Inicio](#ProjetoJogoDeXadrez)**
+* [⬆ Inicio](#ProjetoJogoDeXadrez)
 
 ## Imagem durante a partida
 <p>O jogo sempre inicia com a cor branca. Ao clicar na peça, será destacado o caminho que a peça pode fazer e se o inimigo estiver no caminho.</p>
@@ -32,4 +31,4 @@
 </div>
 <br>
 
-**[⬆ Inicio](#ProjetoJogoDeXadrez)**
+* [⬆ Inicio](#ProjetoJogoDeXadrez)
