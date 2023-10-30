@@ -1,4 +1,4 @@
-# ProjetoJogoDeXadrez   <img src="icone/xadrez.png">
+# Projeto Jogo De Xadrez   <img src="icone/xadrez.png">
 <p>Abaixo possui algumas imagens do jogo, que pode ser acessadas abaixo no link</p>
 
 * [Imagem da tela Inicial do jogo](#Imagem-da-tela-Inicial-do-jogo)
@@ -15,7 +15,7 @@
 <img src="imagensDaTelaDoJogo/telaInicialUser.png" width="900">
 <br>
 
-* [⬆ Inicio](#ProjetoJogoDeXadrez)
+**[⬆ Inicio](#projeto-jogo-de-xadrez---)**
 
 ## Imagem durante a partida
 <p>O jogo sempre inicia com a cor branca. Ao clicar na peça, será destacado o caminho que a peça pode fazer e se o inimigo estiver no caminho.</p>
@@ -23,7 +23,7 @@
 <br>
 
 
-**[⬆ Inicio](#ProjetoJogoDeXadrez)**
+**[⬆ Inicio](#projeto-jogo-de-xadrez---)**
 
 ## Imagem da partida final
 <p>A partida se encerra quando o rei sofre o xeque-mate, ou seja, quando a peça do rei é eliminada. Desta forma, o jogo finaliza e o ganhador da partida aparece na tela.</p>
@@ -31,4 +31,4 @@
 </div>
 <br>
 
-* [⬆ Inicio](#ProjetoJogoDeXadrez)
+**[⬆ Inicio](#projeto-jogo-de-xadrez---)**
