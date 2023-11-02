@@ -1,9 +1,10 @@
 # Projeto Jogo De Xadrez   <img src="icone/xadrez.png">
-<p>Abaixo possui algumas imagens do jogo, que pode ser acessadas abaixo no link</p>
+<p>Abaixo possui algumas imagens do jogo e os requisitos funcionais,que pode ser acessadas abaixo no link</p>
 
 * [Imagem da tela Inicial do jogo](#Imagem-da-tela-Inicial-do-jogo)
 * [Imagem durante a partida](#Imagem-durante-a-partida)
 * [Imagem da partida final](#Imagem-da-partida-final)
+* [Requisitos funcionais ](#Requisitos-funcionais )
 
 
 <div>
@@ -30,5 +31,13 @@
 <img src="imagensDaTelaDoJogo/finalDaPartida.png" width="600">
 </div>
 <br><br>
+
+**[⬆ Inicio](#projeto-jogo-de-xadrez---)**
+
+## Requisitos funcionais 
+
+<p>RF01: Mostrar as opções de movimento ao selecionar uma peça </p>
+<p>RF02: Permite selecionar cor das peças (branco ou preto) </p>
+<p>RF03: Permite reiniciar jogo </p>
 
 **[⬆ Inicio](#projeto-jogo-de-xadrez---)**
