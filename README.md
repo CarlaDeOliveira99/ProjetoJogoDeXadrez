@@ -1,4 +1,5 @@
 # Projeto Jogo De Xadrez   <img src="icone/xadrez.png">
+<p>Neste projeto, desenvolvi um jogo de xadrez com o objetivo de colocar em prática meus conhecimentos em JavaScript e aprimorá-los, também utilizei CSS e HTML.</p>
 <p>Abaixo possui algumas imagens do jogo e os requisitos funcionais,que pode ser acessadas abaixo no link</p>
 
 * [Imagem da tela Inicial do jogo](#Imagem-da-tela-Inicial-do-jogo)
